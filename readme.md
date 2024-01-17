@@ -1,5 +1,7 @@
 # Three.js Journey 39
 
+[Run Live](https://nikita.works/testchambers/threejsjourney39/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
