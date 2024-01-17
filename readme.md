@@ -1,6 +1,9 @@
 # Three.js Journey 39
 
-[Run Live](https://nikita.works/testchambers/threejsjourney39/)
+### [Run Live!](https://nikita.works/testchambers/threejsjourney39/)
+
+## Preview
+https://github.com/lightest/threejsjourney39/assets/2725889/13711021-3956-429b-a202-9971288f846f
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
